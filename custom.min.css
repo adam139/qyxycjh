@@ -75,5 +75,8 @@ body.template-allorgnization_listings #portal-breadcrumbs{display:none}
 #profile td,#profile th{text-align:center}
 #profile .text-left,#profile .title{text-align:left}
 #breadcrumbs-current {color:#ddd;}
+p {text-indent:2em;}
+.noindent {text-indent:0;font-weight:bold;}
+.bodysign {margin:15px 25px;text-align:right;}
 .footer .sign{font-size:90%;text-indent:0}
 #portal-footer-wrapper .pull-right{border-bottom:none}
